@@ -3,11 +3,14 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Nikolas Petrick Castro Mendes
+Matricula: 866882
 
 ## Tela de inspeção com navegador
 
+![Tela do desenvolvedor](telayoutube.png)
 
 ## Tela de projeto no Replit
+
+![Tela do Replit](telareplit.png)
 
